@@ -1,0 +1,12 @@
+<svg width="160.523438" height="158.084961" viewBox="0 0 160.523 158.085" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<radialGradient id="paint_radial_1_1736_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(168.483 49.5795) rotate(160.499) scale(223.189 140.792)">
+			<stop stop-color="#FEE49A"/>
+			<stop offset="1.000000" stop-color="#BB8D37"/>
+		</radialGradient>
+	</defs>
+	<path id="Star 2" d="M80.2617 0L57.4043 18.7002L27.8745 19.0674L22.3853 48.085L0 67.3477L14.4468 93.105L9.68066 122.25L37.3042 132.695L52.3872 158.085L80.2617 148.33L108.136 158.085L123.219 132.695L150.843 122.25L146.076 93.105L160.523 67.3477L138.138 48.085L132.649 19.0674L103.119 18.7002L80.2617 0Z" fill="url(#paint_radial_1_1736_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>
