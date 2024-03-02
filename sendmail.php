@@ -23,7 +23,7 @@ $mail->Port = 465;
 $mail->setFrom('anatoly-web-dev@mail.ru', "Принцип Здоровья");
 // Кому отправить
 $mail->addAddress('anatoly-web-dev@mail.ru');
-// $mail->addAddress('kmv26az@mail.ru');
+$mail->addAddress('kmv26az@mail.ru');
 // Тема письма
 $mail->Subject = 'Заказ обратного звонка';
 
